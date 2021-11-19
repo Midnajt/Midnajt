@@ -1,6 +1,6 @@
 ### Hi there 👋! I am Marcin
 
-- Soon there will be here a amazing description!
+- Soon there will be here an amazing description!
 
 ## My development toolbelt:
 
