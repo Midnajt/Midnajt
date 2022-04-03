@@ -13,4 +13,4 @@
 ## Questions:
 
 - 📫 marcinkrzysztoszek92@gmail.com
-- <img alt="CSS" title="CSS" src="https://img.icons8.com/color/344/linkedin.pngg" height="24"> https://pl.linkedin.com/in/marcin-krzysztoszek-a7851116b/en 
+- <img alt="CSS" title="CSS" src="https://img.icons8.com/color/344/linkedin.png" height="24"> https://pl.linkedin.com/in/marcin-krzysztoszek-a7851116b/en 
