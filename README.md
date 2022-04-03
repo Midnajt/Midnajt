@@ -8,8 +8,9 @@
 
 ## Currently learning:
 
-- https://www.udemy.com/course/zaawansowane-projekty-w-css-i-javascript/
+- https://javascript30.com/
 
 ## Questions:
 
 - 📫 marcinkrzysztoszek92@gmail.com
+- https://pl.linkedin.com/in/marcin-krzysztoszek-a7851116b/en 
