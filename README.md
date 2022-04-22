@@ -8,7 +8,7 @@
 
 ## Currently learning:
 
-- https://javascript30.com/
+- React with https://www.youtube.com/c/helloroman
 
 ## Questions:
 
