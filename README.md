@@ -1,14 +1,12 @@
 ### Hi there 👋! I am Marcin
 
-- Soon there will be here an amazing description!
+Greetings and welcome to my GitHub profile!
 
-## My development toolbelt:
+I am a skilled developer specializing in web technologies, with a particular focus on the automotive industry. My expertise lies in HTML, CSS, and JavaScript, complemented by my adeptness in utilizing React to craft dynamic and interactive web applications. Additionally, I possess a comprehensive understanding of PHP, C#, and SQL, enabling me to construct robust back-end systems and efficiently manage data.
 
-<br><img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SASS" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="24"><br><br>
+## 
 
-## Currently learning:
-
-- React with https://www.youtube.com/c/helloroman
+Throughout my career, I have relished the opportunity to engage in individual projects and undertake freelance assignments. I am driven by the challenge of transforming unique concepts into tangible solutions that precisely cater to my clients' specific requirements. Whether it involves developing bespoke features for automotive websites or creating immersive applications, I remain receptive to intriguing opportunities and new proposals.
 
 ## Questions:
 
